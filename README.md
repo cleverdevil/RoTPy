@@ -19,6 +19,9 @@ Adafruit has also published
 [free STL files for a snap-fit case](https://learn.adafruit.com/qt-py-snap-fit-case/3d-printing),
 which can be cheaply and quickly 3D printed.
 
+Print your case, attach the QT Py to the MPU-6050 Sensor with the JST cable, and place
+the hardware into the case. This will be your RoTPy Device.
+
 ## Installation
 
 _Note: These instructions are specific to Linux_
